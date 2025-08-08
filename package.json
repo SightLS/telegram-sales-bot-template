@@ -1,0 +1,14 @@
+{
+  "name": "Botyara228",
+  "version": "1.0.0",
+  "description": "БОЯТРА ДЛЯ ТОРГОВЛИ =))))",
+  "main": "index.js",
+  "scripts": {
+    "test": "console.log(\"kek\")"
+  },
+  "author": "Ramil",
+  "license": "ISC",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.66.0"
+  }
+}
